@@ -2,6 +2,7 @@
 <h1>Projeto 001 - Relatório Report de Vendas - "Relatório Criativo" &#x1F60E;</h1>
 <p>Olá à todos! Este projeto baseia-se em dois relatórios voltados para a visualização total de vendas, de cunho informativo e com filtragem por data</p>
 <p>Este projeto foi destinado à atividade proposta pela plataforma DIO</p>
+<p><a href="https://app.powerbi.com/links/tLBLtIgukv?ctid=38ae2f02-5710-4e12-80bb-83600c3fdf1e&pbi_source=linkShare">Clique aqui</a> para visualizar o relatório pelo Power BI Web.
 <hr>
 <h2>No primeiro relatório é transcrito o total de vendas e informação relevantes, mostrando toda a saúde da companhia referente ao setor de vendas.</h2>
 <h2>No segundo relatório é transcrito o total de lucro da companhia por ano e país, divido por segmento e produto</h2><hr>
