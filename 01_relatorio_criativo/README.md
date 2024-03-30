@@ -4,9 +4,8 @@
 <p>À medida que estarei desenvolvendo projetos mais complexos estarei compartilhando com vocês neste repositório dedicado.</p>
 <hr>
 <h2>No primeiro relatório é transcrito o total de vendas e informação relevantes, mostrando toda a saúde da companhia referente ao setor de vendas.</h2>
-<br>
 <h2>No segundo relatório é transcrito o total de lucro da companhia por ano e país, divido por segmento e produto</h2><hr>
-<img src="/">
+<img src="C:\Users\diego\OneDrive\Documentos\GitHub\dash_relatorios_powerbi\01_relatorio_criativo\Dash_BI.gif">
 <hr>
 <p>Estou totalmente aberto à <em>feedbacks</em> sobre análise de dados em <strong>Python</strong>! &#x1F601;</p>
 <p>Obrigado à todos e tenham um ótimo dia!</p>
