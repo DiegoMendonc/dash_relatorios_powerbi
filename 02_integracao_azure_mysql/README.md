@@ -1,8 +1,14 @@
 <hr>
-<h1>Repositório dedicado à publicação de Projetos de Relatórios e Dashboards Power BI Voltado para Visualização de Dados &#x1F60E;</h1>
-<p>Olá à todos! Deixarei disponível meus projetos apenas no intuído de aprendizado e compartilhamento do meu desenvolvimento de relatórios e dashboards voltados para inteligência do negócio.</p>
-<p>À medida que estarei desenvolvendo projetos mais complexos estarei compartilhando com vocês neste repositório dedicado.</p>
+<h1>Projeto 001 - Relatório Report de Vendas - "Relatório Criativo" &#x1F60E;</h1>
+<p>Olá à todos! Este projeto baseia-se em dois relatórios voltados para a visualização total de vendas, de cunho informativo e com filtragem por data</p>
+<p>Este projeto foi destinado à atividade proposta pela plataforma DIO</p>
+<p><a href="https://app.powerbi.com/links/tLBLtIgukv?ctid=38ae2f02-5710-4e12-80bb-83600c3fdf1e&pbi_source=linkShare">Clique aqui</a> para visualizar o relatório pelo Power BI Web.
 <hr>
-<p>Estou totalmente aberto à <em>feedbacks</em> sobre a estilização, desenvolvimento e modularização de dados no <strong>Power BI</strong>! &#x1F601;</p>
+<h2>No primeiro relatório é transcrito o total de vendas e informação relevantes, mostrando toda a saúde da companhia referente ao setor de vendas.</h2>
+<h2>No segundo relatório é transcrito o total de lucro da companhia por ano e país, divido por segmento e produto</h2><hr>
+<hr>
+<img src="\Dash_BI.gif">
+<p>À medida que estarei desenvolvendo projetos mais complexos estarei compartilhando com vocês neste repositório dedicado.</p>
+<p>Estou totalmente aberto à <em>feedbacks</em> sobre visualização de dados em <strong>Power BI</strong>! &#x1F601;</p>
 <p>Obrigado à todos e tenham um ótimo dia!</p>
 <hr>
