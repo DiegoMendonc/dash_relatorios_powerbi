@@ -35,6 +35,7 @@
   </ul><br>
   <li>Criar o relatório para visualização acertiva dos dados.</li>
 </ul>
+<hr>
 -- editar texto abaixo --
 <h2>No segundo relatório é transcrito o total de lucro da companhia por ano e país, divido por segmento e produto</h2><hr>
 <hr>
