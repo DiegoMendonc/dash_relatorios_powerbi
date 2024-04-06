@@ -7,7 +7,15 @@
 --- Editar abaixo ---
 <p><a href="https://app.powerbi.com/links/tLBLtIgukv?ctid=38ae2f02-5710-4e12-80bb-83600c3fdf1e&pbi_source=linkShare">Clique aqui</a> para visualizar o relatório pelo Power BI Web.
 <hr>
-<h2>No primeiro relatório é transcrito o total de vendas e informação relevantes, mostrando toda a saúde da companhia referente ao setor de vendas.</h2>
+<ul>
+  <h2>Etapas realizadas:</h2>
+  <li>Criação de uma instância na Microsoft Azure;</li>
+  <li>Criação de um Banco de Dados com base disponível no GitHub;</li>
+  <li>Integração do Power BI com MySQL na Microsoft Azure;</li>
+  <li>Verificar Problemas na base a fim de realizar a transformação dos dados no Power Query;</li>
+  <li>Criar o relatório para visualização acertiva dos dados.</li>
+</ul>
+-- editar texto abaixo --
 <h2>No segundo relatório é transcrito o total de lucro da companhia por ano e país, divido por segmento e produto</h2><hr>
 <hr>
 <img src="\Dash_BI.gif">
