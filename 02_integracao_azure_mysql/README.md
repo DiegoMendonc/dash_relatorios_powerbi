@@ -4,8 +4,7 @@
 <hr>
 <p>Desafio proposto na plataforma DIO</p>
 <hr>
---- Editar abaixo ---
-<p><a href="https://app.powerbi.com/links/tLBLtIgukv?ctid=38ae2f02-5710-4e12-80bb-83600c3fdf1e&pbi_source=linkShare">Clique aqui</a> para visualizar o relatório pelo Power BI Web.
+<p><a href="https://app.powerbi.com/links/kjZlM53RpM?ctid=38ae2f02-5710-4e12-80bb-83600c3fdf1e&pbi_source=linkShare">Clique aqui</a> para visualizar o relatório pelo Power BI Web.
 <hr>
 <ul>
   <h2>Etapas realizadas:</h2>
@@ -39,7 +38,7 @@
 -- editar texto abaixo --
 <h2>No segundo relatório é transcrito o total de lucro da companhia por ano e país, divido por segmento e produto</h2><hr>
 <hr>
-<img src="\Dash_BI.gif">
+<img src="\projeto-dio-azure.gif">
 <p>À medida que estarei desenvolvendo projetos mais complexos estarei compartilhando com vocês neste repositório dedicado.</p>
 <p>Estou totalmente aberto à <em>feedbacks</em> sobre visualização de dados em <strong>Power BI</strong>! &#x1F601;</p>
 <p>Obrigado à todos e tenham um ótimo dia!</p>
