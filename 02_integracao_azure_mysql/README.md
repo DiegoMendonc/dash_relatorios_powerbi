@@ -35,10 +35,9 @@
   <li>Criar o relatório para visualização acertiva dos dados.</li>
 </ul>
 <hr>
--- editar texto abaixo --
-<h2>No segundo relatório é transcrito o total de lucro da companhia por ano e país, divido por segmento e produto</h2><hr>
-<hr>
 <img src="\projeto-dio-azure.gif">
+<hr>
+<br>
 <p>À medida que estarei desenvolvendo projetos mais complexos estarei compartilhando com vocês neste repositório dedicado.</p>
 <p>Estou totalmente aberto à <em>feedbacks</em> sobre visualização de dados em <strong>Power BI</strong>! &#x1F601;</p>
 <p>Obrigado à todos e tenham um ótimo dia!</p>
