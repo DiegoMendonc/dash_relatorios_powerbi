@@ -32,7 +32,7 @@
     <li>Agrupar os dados a fim de saber quantos colaboradores existem por gerente;</li>
     <li>Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela.</li>
   </ul><br>
-  <li>Criar o relatório para visualização acertiva dos dados.</li>
+  <li>Criar o relatório para visualização assertiva dos dados.</li>
 </ul>
 <hr>
 <img src="\projeto-dio-azure.gif">
